@@ -22,7 +22,7 @@ This repository is a hub for all my **Spring Boot** projects! Each project is bu
 
 - ✅ Scalable backend architectures.  
 - ✅ Robust and secure REST APIs.  
-- ✅ Seamless database integration (e.g., MySQL, MongoDB).  
+- ✅ Seamless database integration (e.g., MySQL, MongoDB,Postgres).  
 - ✅ Authentication & Authorization (JWT, OAuth2).  
 - ✅ Microservices design patterns.  
 
