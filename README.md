@@ -9,7 +9,7 @@ Welcome to my **Spring Boot Projects Repository**! 🌟 This is a collection of 
 1. 🎯 [About This Repository](#about-this-repository)  
 2. 🛠️ [Projects](#projects)  
    - 🌐 [Project 1: [Premier league App](#project-1-name-of-project)  
-   - 💾 [Project 2: [Quiz App Monolithic architecture ]](#project-2-name-of-project)  
+   - 💾 [Project 2: [Quiz App Monolithic architecture ](#project-2-name-of-project)  
    - 🔗 [And More...](#projects)  
 3. 🚦 [How to Run the Projects](#how-to-run-the-projects)  
 4. 💬 [Feedback & Contributions](#feedback--contributions)  
